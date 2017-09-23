@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+ul{
+  list-style-position: inside;
+}
+#body {
+  background-color: silver;
+  border-style: solid;
+  border-color: silver;
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+#image {
+  background-color: white;
+  margin-right: 40px;
+  margin-left: 40px
+  
+}
